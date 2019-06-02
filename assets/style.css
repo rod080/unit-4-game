@@ -1,0 +1,15 @@
+
+.background{
+background-color:rgb(115, 113, 121);
+
+}
+
+body{
+background-color: rgb(157, 184, 207);   
+ 
+}
+
+#game-header:{
+background-color:rgb(105, 94, 141);
+background-image:"./assets/images/gem1.jpg";
+}    
